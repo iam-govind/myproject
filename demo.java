@@ -1,6 +1,6 @@
  hi
 
-My name is govind
+My name is Nimal
 
 I am writing this java file for practice purpose
 
